@@ -1,0 +1,6 @@
+#Aqui guardamos los archivos que vamos a ignorar antes de subir a git
+
+__pycache__
+*sqlite3
+
+
